@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+GET_TARGET_TITLE_NAME:0 "[target.GetBaseNameNoTierNoTooltip]"
+GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
+
+strawb_create_titular.back:0 "回去 
+"
+
+
+strawb_create_titular:0 "创建标题标题 "
+
+strawb_create_titular.1000.t:0 "选择所有者 "
+strawb_create_titular.1000.desc:0 "#S 谁应该获得头衔？  #!"
+
+strawb_create_titular.1000.me:0 "为我自己！ "
+strawb_create_titular.1000.recipient:0 "授予它 [recipient.GetNameNoTooltip]"
+
+
+strawb_create_titular.1001.desc:0 "#S 选择所需的标题等级  #!"
+strawb_create_titular.1001.t:0 "头衔排名 "
+
+strawb_create_titular.1001.duchy:0 "创建公国  #!"
+strawb_create_titular.1001.kingdom:0 "建立王国 "
+strawb_create_titular.1001.empire:0 "建立帝国 "

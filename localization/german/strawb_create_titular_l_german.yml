@@ -1,0 +1,22 @@
+﻿l_german:
+GET_TARGET_TITLE_NAME:0 "[target.GetBaseNameNoTierNoTooltip]"
+GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
+
+strawb_create_titular.back:0 "Zurück"
+
+
+strawb_create_titular:0 "Erschaffe einen titlichen Titel"
+
+strawb_create_titular.1000.t:0 "Wähle den Besitzer"
+strawb_create_titular.1000.desc:0 "#S Wer soll den Titel erhalten? #!"
+
+strawb_create_titular.1000.me:0 "Ich behalte ihn selber!"
+strawb_create_titular.1000.recipient:0 "An [recipient.GetNameNoTooltip] übergeben"
+
+
+strawb_create_titular.1001.desc:0 "#S Wähle den gewünschten Rang des Titels #!"
+strawb_create_titular.1001.t:0 "Titel Rang"
+
+strawb_create_titular.1001.duchy:0 "Erschaffe ein Herzogtum #!"
+strawb_create_titular.1001.kingdom:0 "Erschaffe ein Königreich"
+strawb_create_titular.1001.empire:0 "Erschaffe ein Reich"
