@@ -15,8 +15,9 @@ strawb_create_titular.1000.recipient:0 "Accorde-le à [recipient.GetNameNoToolti
 
 
 strawb_create_titular.1001.desc:0 "#S Sélectionnez le rang souhaité du titre #!"
-strawb_create_titular.1001.t:0 "Rang du titre "
+strawb_create_titular.1001.t:0 "Rang du Titre"
 
-strawb_create_titular.1001.duchy:0 "Créer un duché  #!"
-strawb_create_titular.1001.kingdom:0 "Créer un royaume"
-strawb_create_titular.1001.empire:0 "Créer un empire"
+strawb_create_titular.1001.duchy:0 "Créer un Duché  #!"
+strawb_create_titular.1001.kingdom:0 "Créer un Royaume"
+strawb_create_titular.1001.empire:0 "Créer un Empire"
+strawb_create_titular.1001.hegemony:0 "Créer un Hégémonie"

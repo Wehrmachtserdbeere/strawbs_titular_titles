@@ -5,18 +5,19 @@ GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
 strawb_create_titular.back:0 "Regresa"
 
 
-strawb_create_titular:0 "Crear un título titular "
+strawb_create_titular:0 "Crear un título titular"
 
 strawb_create_titular.1000.t:0 "Elegir dueño"
-strawb_create_titular.1000.desc:0 "#S ¿Quién debería obtener el título?  #!"
+strawb_create_titular.1000.desc:0 "#S ¿Quién debería obtener el título? #!"
 
-strawb_create_titular.1000.me:0 "¡Tómalo para mí! "
+strawb_create_titular.1000.me:0 "¡Tómalo para mí!"
 strawb_create_titular.1000.recipient:0 "Concédelo a [recipient.GetNameNoTooltip]"
 
 
-strawb_create_titular.1001.desc:0 "#S Seleccione el rango deseado del título  #!"
-strawb_create_titular.1001.t:0 "Rango de título "
+strawb_create_titular.1001.desc:0 "#S Seleccione el rango deseado del título #!"
+strawb_create_titular.1001.t:0 "Rango de título"
 
-strawb_create_titular.1001.duchy:0 "Crea un ducado  #!"
-strawb_create_titular.1001.kingdom:0 "Crea un reino "
-strawb_create_titular.1001.empire:0 "Crea un imperio "
+strawb_create_titular.1001.duchy:0 "Crea un ducado #!"
+strawb_create_titular.1001.kingdom:0 "Crea un reino"
+strawb_create_titular.1001.empire:0 "Crea un imperio"
+strawb_create_titular.1001.hegemony:0 "Crear una hegemonía"

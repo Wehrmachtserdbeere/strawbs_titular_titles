@@ -19,4 +19,5 @@ strawb_create_titular.1001.t:0 "Titel Rang"
 
 strawb_create_titular.1001.duchy:0 "Erschaffe ein Herzogtum #!"
 strawb_create_titular.1001.kingdom:0 "Erschaffe ein Königreich"
-strawb_create_titular.1001.empire:0 "Erschaffe ein Reich"
+strawb_create_titular.1001.empire:0 "Erschaffe ein Kaiserreich"
+strawb_create_titular.1001.hegemony:0 "Erschaffe eine Hegemonie"

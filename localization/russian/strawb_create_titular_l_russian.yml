@@ -5,18 +5,19 @@ GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
 strawb_create_titular.back:0 "Вернитесь назад"
 
 
-strawb_create_titular:0 "Создать титульный заголовок "
+strawb_create_titular:0 "Создать титульный заголовок"
 
-strawb_create_titular.1000.t:0 "Выберите владельца "
-strawb_create_titular.1000.desc:0 "#S Кто должен получить титул?  #!"
+strawb_create_titular.1000.t:0 "Выберите владельца"
+strawb_create_titular.1000.desc:0 "#S Кто должен получить титул? #!"
 
-strawb_create_titular.1000.me:0 "Возьми себе! "
+strawb_create_titular.1000.me:0 "Возьми себе!"
 strawb_create_titular.1000.recipient:0 "Подарить [recipient.GetNameNoTooltip]"
 
 
-strawb_create_titular.1001.desc:0 "#S Выберите желаемый ранг титула  #!"
-strawb_create_titular.1001.t:0 "Титул Ранг "
+strawb_create_titular.1001.desc:0 "#S Выберите желаемый ранг титула #!"
+strawb_create_titular.1001.t:0 "Титул Ранг"
 
-strawb_create_titular.1001.duchy:0 "Создать герцогство  #!"
-strawb_create_titular.1001.kingdom:0 "Создать королевство "
-strawb_create_titular.1001.empire:0 "Создать Империю "
+strawb_create_titular.1001.duchy:0 "Создать герцогство #!"
+strawb_create_titular.1001.kingdom:0 "Создать королевство"
+strawb_create_titular.1001.empire:0 "Создать Империю"
+strawb_create_titular.1001.hegemony:0 "Создать гегемонию"
